@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="393" height="480" viewBox="0 0 393 480">
+<rect width="393" height="480" fill="#FFFFFF"/>
+<text x="20" y="42" font-family="Lato,Arial" font-weight="900" font-size="23" fill="#182033">Tất cả thương hiệu</text>
+<text x="20" y="66" font-family="Lato,Arial" font-size="12" fill="#6C7482">9 hãng trong dữ liệu HÀNG HÓA PTX2026</text>
+<rect x="20" y="93" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="75.5" y="144" text-anchor="middle" font-family="Lato,Arial" font-size="17" font-weight="900" fill="#222222">YAMAHA</text>
+<text x="75.5" y="175" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Yamaha</text>
+<rect x="141" y="93" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="196.5" y="144" text-anchor="middle" font-family="Lato,Arial" font-size="17" font-weight="900" fill="#222222">Roland</text>
+<text x="196.5" y="175" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Roland</text>
+<rect x="262" y="93" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="317.5" y="144" text-anchor="middle" font-family="Lato,Arial" font-size="22" font-weight="900" fill="#184E9C">CASIO</text>
+<text x="317.5" y="175" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Casio</text>
+<rect x="20" y="209" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="75.5" y="260" text-anchor="middle" font-family="Lato,Arial" font-size="17" font-weight="900" fill="#292929">METZLER</text>
+<text x="75.5" y="291" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Metzler</text>
+<rect x="141" y="209" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="196.5" y="260" text-anchor="middle" font-family="Lato,Arial" font-size="22" font-weight="900" fill="#AC7E37">ASTOR</text>
+<text x="196.5" y="291" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Astor</text>
+<rect x="262" y="209" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="317.5" y="260" text-anchor="middle" font-family="Lato,Arial" font-size="22" font-weight="900" fill="#D13230">Kawai</text>
+<text x="317.5" y="291" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Kawai</text>
+<rect x="20" y="325" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="75.5" y="376" text-anchor="middle" font-family="Lato,Arial" font-size="22" font-weight="900" fill="#212830">KORG</text>
+<text x="75.5" y="407" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Korg</text>
+<rect x="141" y="325" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="196.5" y="376" text-anchor="middle" font-family="Lato,Arial" font-size="13" font-weight="900" fill="#2B4E76">COLUMBIA</text>
+<text x="196.5" y="407" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Columbia</text>
+<rect x="262" y="325" width="111" height="101" rx="15" fill="#FFF9E9" stroke="#F2EACA"/>
+<text x="317.5" y="376" text-anchor="middle" font-family="Lato,Arial" font-size="13" font-weight="900" fill="#343434">TECHNICS</text>
+<text x="317.5" y="407" text-anchor="middle" font-family="Lato,Arial" font-size="13" fill="#56616F">Technics</text>
+</svg>
